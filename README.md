@@ -44,7 +44,7 @@ The Population Data API provides endpoints to retrieve information about populat
 - Use the responses for data analysis, visualization, or any other relevant purposes.
 
 ## Contributors
-- [Your Name](https://github.com/your_username)
+- William Lowell Ramos (https://github.com/wramos08)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
